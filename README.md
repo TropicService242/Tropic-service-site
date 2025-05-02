@@ -1,2 +1,2 @@
-# Tropic-service-site
+# Tropic service
 Staffing agency
